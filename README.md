@@ -7,7 +7,7 @@ This project is designed for beginners in Robotics and Embedded Systems, featuri
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The robot continuously measures the distance to objects in front of it using an ultrasonic sensor.
 
@@ -19,7 +19,7 @@ When an obstacle is detected within a predefined distance, the car stops, moves 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Automatic obstacle detection.
 - Ultrasonic distance measurement.
@@ -31,7 +31,7 @@ When an obstacle is detected within a predefined distance, the car stops, moves 
 
 ---
 
-## 🧰 Hardware Requirements
+##  Hardware Requirements
 
 ### 1. Arduino Uno
 
@@ -114,7 +114,7 @@ The four DC motors are connected through the Motor Shield:
 
 ---
 
-## 📚 Software Requirements
+##  Software Requirements
 
 - Arduino IDE.
 - AFMotor Library.
@@ -185,7 +185,7 @@ The robot follows a simple obstacle avoidance algorithm:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Install the Arduino IDE.
 2. Install all required libraries.
@@ -198,7 +198,7 @@ The robot follows a simple obstacle avoidance algorithm:
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By studying this project, you will learn:
 
@@ -243,7 +243,7 @@ Robotics & AI | Arduino | Embedded Systems
 
 ---
 
-## 📄 License
+##  License
 
 This project is available for educational and learning purposes.
 
